@@ -1,0 +1,26 @@
+.two-column {
+  text-align: center;
+  font-size: 0;
+  
+  .column {
+    width: 100%;
+    max-width: 300px;
+    display: inline-block;
+    vertical-align: top;
+  }
+
+  .contents {
+    font-size: 14px;
+    text-align: left;
+  }
+
+  img {
+    width: 100%;
+    max-width: 280px;
+    height: auto;
+  }
+
+  .text {
+    padding-top: 10px;
+  }
+}

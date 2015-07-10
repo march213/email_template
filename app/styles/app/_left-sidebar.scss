@@ -1,0 +1,33 @@
+.left-sidebar {
+  text-align: center;
+  font-size: 0;
+  
+  .column {
+    width: 100%;
+    display: inline-block;
+    vertical-align: middle;
+  }
+
+  .left {
+    max-width: 100px;
+  }
+
+  .right {
+    max-width: 500px;
+  }
+
+  .img {
+    width: 100%;
+    max-width: 80px;
+    height: auto;
+  }
+
+  .contents {
+    font-size: 14px;
+    text-align: center;
+  }
+
+  a {
+    color: #85ab70;
+  }
+}

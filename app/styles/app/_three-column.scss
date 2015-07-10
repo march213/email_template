@@ -1,0 +1,28 @@
+.three-column {
+  text-align: center;
+  font-size: 0;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  
+  .column {
+    width: 100%;
+    max-width: 200px;
+    display: inline-block;
+    vertical-align: top;
+  }
+
+  .contents {
+    font-size: 14px;
+    text-align: center;
+  }
+
+  img {
+    width: 100%;
+    max-width: 180px;
+    height: auto;
+  }
+
+  .text {
+    padding-top: 10px;
+  }
+}
